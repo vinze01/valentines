@@ -12,7 +12,7 @@ yesBtn.addEventListener("click", () => {
   gif.style.width = "350px";
   gif.style.height = "700px";
   gif.src =
-    "/ksh.gif";
+    "https://i.ibb.co/vZVnCcf/ksh.gif";
 
   // Show the flowers button and hide Yes and No buttons
   flowersBtn.style.display = "inline-block";
